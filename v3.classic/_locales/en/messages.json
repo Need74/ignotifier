@@ -506,6 +506,15 @@
   "popup_toggle_dark": {
     "message": "Toggle dark theme on and off"
   },
+  "popup_expand": {
+    "message": "Toggle expanded view on and off"
+  },
+  "popup_previous": {
+    "message": "Previous email"
+  },
+  "popup_next": {
+    "message": "Next email"
+  },
   "popup_msg_1": {
     "message": "just now"
   },
